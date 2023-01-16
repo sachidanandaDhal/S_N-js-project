@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>order_confirmation |</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        
+#order{
+  position: relative;
+  animation-name: order;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes order{
+  0%{left: -1000px;}
+  100%{left: 0;}
+}
+
+#rotate{
+  -webkit-animation:spin 1s linear ;
+    -moz-animation:spin 1s linear ;
+    animation:spin 1s linear ;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+#Checkout{
+    background-color: azure;
+}
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.png" width="125px">
+                </a>
+            </div>
+            
+            <a href="cart.html">
+                <img class="cart-image" src="images/cart.png" width="30px" height="30px">
+            </a>
+            
+
+            <img src="images/menu.png" class="menu-icon" onclick="menutoggle()">
+
+        </div>
+
+    </div>
+
+
+    <!-- ==============header menu section ends here============== -->
+
+    <!-- ==============order_confirmation starts here============== -->
+    <section class="order_confirmation py-5 my-5" id="order_confirmation" >
+        <div class="container" id="Checkout">
+            <div class="section_title text-center mb-5">
+                <h1 class="text-capitalize" id="order">Order Confirmation !</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mx-auto text-center" id="rotate">
+                    <div>
+                        <img src="images\orderconfirm-removebg-preview.png" class="img img-fluid" alt="image">
+                    </div>
+                    <div>
+                        <h2>Your Order is confirmed!</h2>
+                        <h6>A Copy confirmation email has been sent to <b>abc@gmail.com</b></h6>
+                        <h6><span class="mr-2">Order No:</span><span><b>AWB953453556</b></span></h6>
+                        <h6>
+                            <span class="mr-2">Order Status:</span>
+                            <span>
+                                <b>
+                                    <span class="badge badge-danger">In-transit</span>
+                                </b>
+                            </span>
+                        </h6>
+                        <a href="index.html" class="btn btn-primary btn-lg mt-5">Continue shopping 🛒</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==============order_confirmation ends here============== -->
+    
+</body>
+
+</html>
