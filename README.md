@@ -5,9 +5,12 @@ KNOX_STORE is a fully responsive ecommerce website, built using HTML, CSS, and J
 
 In this project we are creating a add to cart page where you can add products and delete products and you can change as your wish.
 In this add to cart page you add a product and after delete this product you can add a new product.
-![Screenshot_20230116_125441](https://user-images.githubusercontent.com/120724018/212647320-8b65c8e7-c32b-401f-bc78-37ed43c481f9.png)![Screenshot_20230116_125455](https://user-images.githubusercontent.com/120724018/212647547-15b0619a-fb86-4601-844d-399a114713a0.png)
-![Screenshot_20230116_125520](https://user-images.githubusercontent.com/120724018/212647560-f2409b71-f4f4-4a43-91d2-30084e4ccd64.png)
-![Screenshot_20230116_125534](https://user-images.githubusercontent.com/120724018/212647592-f6175e1f-1474-4709-95d1-34306471e0d0.png)
-![Screenshot_20230116_125557](https://user-images.githubusercontent.com/120724018/212647598-a7beb604-c1d3-42d6-8541-a09ad541f41f.png)
-![Screenshot_20230116_125740](https://user-images.githubusercontent.com/120724018/212647604-b7094cc8-087f-49c5-9033-2c6326a84e1e.png)
-![Screenshot_20230116_125815](https://user-images.githubusercontent.com/120724018/212647614-d317c0c1-5644-49f9-9f49-e0f7039e8fa1.png)
+
+![Screenshot_20230116_152011](https://user-images.githubusercontent.com/120724018/212649610-227cdc81-f328-42d7-a4a1-a982cfb95a0f.png)
+![Screenshot_20230116_152035](https://user-images.githubusercontent.com/120724018/212649737-4850d4ff-549f-40c8-ac20-3c7608897d6d.png)
+![Screenshot_20230116_152127](https://user-images.githubusercontent.com/120724018/212649771-6dfa3da5-ebc4-4eef-b13f-d1253938c454.png)
+![Screenshot_20230116_152157](https://user-images.githubusercontent.com/120724018/212649783-5eb1b792-6e7b-4fc6-903c-340d54049111.png)
+![Screenshot_20230116_152233](https://user-images.githubusercontent.com/120724018/212649789-8a025a83-3e2b-46f4-83db-64954885709e.png)
+![Screenshot_20230116_152313](https://user-images.githubusercontent.com/120724018/212649800-0ba777d1-5fe3-4f6e-8636-facfb865d2f1.png)
+![Screenshot_20230116_152405](https://user-images.githubusercontent.com/120724018/212649813-055c9944-2879-4254-9b2e-fdcb5bd78038.png)
+![Screenshot_20230116_152423](https://user-images.githubusercontent.com/120724018/212649824-d1e2be84-24f3-42e6-ad15-06880b8313de.png)
